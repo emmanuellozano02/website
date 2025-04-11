@@ -3,4 +3,4 @@ Testing Github Codespaces for website creation
 
 
 
-![image](https://github.com/user-attachments/assets/9ad9f1a9-1ef5-4374-b5f4-3aeab82559cc)
+![200w](https://github.com/user-attachments/assets/8c762ed9-da82-46fc-8fad-3928d563cc9b)
